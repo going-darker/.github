@@ -3,10 +3,11 @@
 This is an open project to protect Human Right to privacy. Building tools to increase privacy, prevent metadata leakage and bypass the new censorship and citizen control bills like #ChatControl, #ProtectEU, #KOSA, "Age verifications" and so on.
 
 GoingDarker will focus on the personal privacy space:
+
 ![Personal privacy pyramid](pyramid.png)
 
 
-On the Operating System + Software + Internet side.
+We will focus on the Operating System + Software + Internet side.
 
 ## List of projects
 
