@@ -1,17 +1,25 @@
-## Hi there 👋
+## About GoingDarker
+
+This is an open project to protect Human Right to privacy. Building tools to increase privacy, prevent metadata leakage and bypass the new censorship and citizen control bills like #ChatControl, #ProtectEU, #KOSA, "Age verifications" and so on.
+
+GoingDarker will focus on the personal privacy space:
+
+On the Operating System + Software + Internet side.
+
+## List of projects
+
+### GoingDarker infraestructure
+We need to set up or use a collaborative infraestructure that cannot be taken down. We cannot rely only on GitHub.
+
+### Making Linux private by default
+People think Linux is the most private OS, that's not true, let's change that.
+
+### More to come
+Wanna propose a new project? Join us.
 
 ## Contact
 
 MAIL: cypherbits2@protonmail.com
 MATRIX: @goingdarker:matrix.org
+More soon.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
