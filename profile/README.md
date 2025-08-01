@@ -10,6 +10,7 @@ GoingDarker will focus on the personal privacy space:
 We will focus on the Operating System + Software + Internet side.
 
 ## List of projects
+![https://going-darker.github.io/](https://going-darker.github.io/)
 
 ### GoingDarker infraestructure
 We need to set up or use a collaborative infraestructure that cannot be taken down. We cannot rely only on GitHub.
